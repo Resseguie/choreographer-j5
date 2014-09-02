@@ -1,0 +1,12 @@
+{
+  "name": "choreographer-j5",
+  "version": "0.0.1",
+  "description": "Accepts command sequence via socket.io and sends to nodebot via Johnny-Five",
+  "dependencies": {
+    "express": "^4.8.7",
+    "johnny-five": "^0.8.8",
+    "q": "^1.0.1",
+    "randomstring": "^1.0.3",
+    "socket.io": "^1.0.6"
+  }
+}
